@@ -1,0 +1,40 @@
+---
+---
+
+### Do Age Differences in Associative Learning and Stimulus Generalization Lead to Age Differences in Trust?
+* Brittany Cassidy, UNC-Greensboro
+* Kendra Seaman, UT Dallas
+* Jessica Cooper, Emory University
+* Daisy Burr, Duke University
+* Alex Christensen, UNC-Greensboro
+
+When meeting others, people make quick decisions on whether to trust people or not that affect decision-making and that pose serious consequences for physical, interpersonal, and financial well-being. However, older adults exhibit excessive trust relative to younger adults and this excessive trust leaves older adults particularly such serious consequences, including financial fraud. One explanation for their excessive trust is that older adults may learn to trust differently than do younger adults. The study adopts an interdisciplinary approach to examine this possibility at both the behavioral and neural levels.
+
+#### This study is funded by [ SRNDNA ](https://www.decisionneuroaging.network/). [OSF preregistration](https://osf.io/b3au5) includes details about the hypotheses and study design.
+
+***
+
+### Using Neuroscience to Optimize Digital Health Interventions across Adulthood
+* Jaime Castrellon, Duke University
+* Mikella Green, Duke University
+* Gregory Samanez-Larkin, Duke University
+* Gary Bennett, Duke University
+* Candace Brown, Duke University
+* Eric Juarez, Duke University
+* Kendra Seaman, UT Dallas
+* Emily Falk, University of Pennsylvania
+
+While clinical trials have demonstrated the efficacy of health interventions for enhancing cognition and well-being in older age, a persistent challenge is how best to motivate aging adults to engage in beneficial health behaviors in their daily lives. People know that being more physically active and eating better is good for them, but they still don’t do it. Recent neuroscientific and psychological research shows that motivation changes with age. Older adults are more motivated by social rewards and pay more attention to and better remember positively-framed messages. Thus, positively-framed social rewards may provide critical incentives for aging adults to be more physically active and eat healthier food. The goal of this project is to combine approaches from neuroscience, psychology and global health to identify ways to individually motivate adults to become more physically active and make healthier food choices in daily life. Leveraging collaborations across and outside of the university, the team will test the hypothesis that positively-framed social rewards will motivate aging adults’ to more frequently engage in beneficial health behaviors in daily life.
+
+#### This study is funded by [ Duke Bass Connections ](https://bassconnections.duke.edu/). 
+
+*** 
+
+### Affective and Cognitive Mechanisms of Skewed Decision Making Across Adulthood
+* Kendra Seaman, UT Dallas
+* Sade Abidoun, Duke University
+* Gregory Samanez-Larkin, Duke University
+
+This research seeks to improve our understanding of adult age differences in decision making when facing large, but unlikely gains coupled with small, but more likely losses, or positively-skewed gambles.  We will examine the affective and cognitive mechanisms underlying this process, as well as clarify the conditions under which individuals display a bias towards positively-skew gambles.  Our findings will be relevant across a range of disciplines as society faces increasing challenges and opportunities of an aging population.
+
+#### Portions of this project supported a Maddox Fellowship from the [Duke Aging Center](https://sites.duke.edu/centerforaging/). [OSF preregistration](https://osf.io/d56b2/) includes details about our first set of studies in this project.

@@ -1,8 +1,10 @@
 ---
 ---
 
-<link rel="stylesheet" href="styles.css" type="text/css">
+![](images/aging_pet_top.JPG)
 
-![](images/aging_pet.JPG)
+#### Welcome to the Aging Well Lab at UT Dallas. Our research is dedicated to using basic and translational scientific research studies to promote health and wellbeing across adulthood. We use a variety of behavioral, modeling and neuroimaging techniques to better understand how the mind and the brain change as people get older.
 
-#### Welcome to the Aging Well Lab at UT Dallas. Our research is dedicated to using basic and translational scientific research studies to promote health and wellbeing across adulthood. 
+***
+#### Opening Fall 2019 in the Center for Vital Longevity
+<img src="images/UT_Dallas_tex_orange.JPG" style="width:50%" align="right">

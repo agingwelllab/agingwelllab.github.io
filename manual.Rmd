@@ -1,0 +1,19 @@
+---
+
+---
+# Aging Well Lab Manual
+#### Based on https://github.com/memobc/memolab-manual#everyone and http://jonathanpeelle.net/blog/2016/01/07/maintaining-a-lab-manual 
+
+## Introduction
+
+## Lab member expectations and responsibilities
+### Everyone
+### PI
+### Postdocs
+### Graduate Students
+### Lab Managers
+### Other Full-Time Staff
+### Undergraduate Students
+
+## Code of Conduct
+
