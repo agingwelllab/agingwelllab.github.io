@@ -11,6 +11,9 @@ Kendra completed her BA in psychology and biology at the [University of Kansas](
 
 Kendra's CV is available [ here ](files/KendraSeamanCV4Web.pdf)
 
+<div style="margin-bottom:30px;">
+</div>
+
 ***
 
 <img src="images/shelby.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="right">
@@ -21,10 +24,27 @@ Kendra's CV is available [ here ](files/KendraSeamanCV4Web.pdf)
 
 Shelby graduated from Duke University with a BS in psychology. After graduation, she spent two years working as a research assistant for the Children’s Learning Institute at UTHealth. She has just completed her Master’s in Neuroscience and Cognition from UTDallas, while working under Dr. Kristen Kennedy in the KNAC lab. She hopes to pursue a PhD in Clinical Neuropsychology, and is very excited to be the lab manager of the Aging Well Lab.
 
+<div style="margin-bottom:65px;">
+</div>
+
+***
+
+<img src="images/ChristopherGarzaBioPic.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+
+### Research Assistant
+
+#### Christopher Garza
+
+Christopher Garza graduated from UT Dallas with a BA in Economics. He is currently completing a MS in Social Data Analytics and Research. He hopes to earn a Ph.D in Cognition and Neuroscience.
+
+<div style="margin-bottom:110px;">
+</div>
+
+***
 
 ### Collaborators
 
 * [Gregory Samanez-Larkin (Duke)](https://mcablab.science)
 * [Brittany Cassidy (UNC-G)](https://psy.uncg.edu/people/cassidy/)
-* Jessica Cooper (Emory)
+* [Jessica Cooper (Emory)](https://sites.google.com/site/jessicacooper/home)
 
