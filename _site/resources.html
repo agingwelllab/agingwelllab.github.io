@@ -7,6 +7,7 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -86,7 +87,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -247,18 +247,6 @@ $(document).ready(function () {
 }
 </style>
 
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
 <!-- code folding -->
 
 
@@ -350,18 +338,9 @@ $(document).ready(function () {
 <p><a href="https://elizabeth-dupre.com/git-course/">Introduction to GitHub</a><br />
 <a href="https://guides.github.com/introduction/flow/">Understanding GitHub Flow</a><br />
 <a href="https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging">Basic Branching and Merging</a><br />
-<<<<<<< HEAD
-<a href="https://thenewstack.io/tutorial-git-for-absolutely-everyone/">Git for Absolutely Everyone</a><br />
-<a href="https://thenewstack.io/git-with-the-program-getting-started-with-github/">Getting Started with GitHub</a><br />
-<a href="https://thenewstack.io/dont-mess-with-the-master-working-with-branches-in-git-and-github/">Working with Branches in Github</a><br />
-<a href="http://alistapart.com/article/the-art-of-the-commit/">The Art of the Commit</a><br />
-<a href="https://dangitgit.com/">Dangit, git!</a><br />
-<a href="http://rogerdudler.github.io/git-guide/">Simple git guide</a></p>
-=======
 <a href="https://thenewstack.io/tutorial-git-for-absolutely-everyone/">Git for Absolutely Everyone</a> <a href="https://thenewstack.io/git-with-the-program-getting-started-with-github/">Getting Started with GitHub</a> <a href="https://thenewstack.io/dont-mess-with-the-master-working-with-branches-in-git-and-github/">Working with Branches in Github</a><br />
 <a href="http://alistapart.com/article/the-art-of-the-commit/">The Art of the Commit</a><br />
 <a href="https://dangitgit.com/">Dangit, git!</a></p>
->>>>>>> cb2f5b1153317bfdeab3eb77027b81945c74c692
 <hr />
 </div>
 <div id="r-shiny-apps" class="section level2">
@@ -394,6 +373,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
