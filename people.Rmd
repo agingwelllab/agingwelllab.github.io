@@ -1,10 +1,6 @@
 ---
 ---
 
-### Join our team!
-
-Now seeking applications for a Lab Manager! Apply on the [UT Dallas website](https://jobs.utdallas.edu/postings/12444) by June 28, 2019.
-
 ***
 <img src="images/science_wrap.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
@@ -16,6 +12,16 @@ Kendra completed her BA in psychology and biology at the [University of Kansas](
 Kendra's CV is available [ here ](files/KendraSeamanCV4Web.pdf)
 
 ***
+
+<img src="images/shelby.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="right">
+
+### Lab Manager
+
+#### Shelby Leverett
+
+Shelby graduated from Duke University with a BS in psychology. After graduation, she spent two years working as a research assistant for the Children’s Learning Institute at UTHealth. She has just completed her Master’s in Neuroscience and Cognition from UTDallas, while working under Dr. Kristen Kennedy in the KNAC lab. She hopes to pursue a PhD in Clinical Neuropsychology, and is very excited to be the lab manager of the Aging Well Lab.
+
+
 ### Collaborators
 
 * [Gregory Samanez-Larkin (Duke)](https://mcablab.science)

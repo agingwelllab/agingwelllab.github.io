@@ -3,7 +3,7 @@
 ---
 ## Lab Resources
 
-Lab Manual coming soon!  
+[Aging Well Lab Manual](https://agingwelllab.github.io/awl_lab_manual/)
 
 ***  
 ## Learning to use the Command Line/Unix
