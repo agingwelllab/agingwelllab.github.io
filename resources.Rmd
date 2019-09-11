@@ -16,6 +16,7 @@
 [R Best Practices](https://kdestasio.github.io/post/r_best_practices/)  
 [Creating websites in R](https://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html)  
 [Dynamic CVs in R](https://ropensci.org/blog/2019/01/10/vitae/)  
+[Scientific Papers in R](https://libscie.github.io/rmarkdown-workshop/handout.html)
 
 ***  
 
