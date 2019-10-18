@@ -10,6 +10,8 @@ navbar:
       href: people.html
     - text: "Resources"
       href: resources.html
+    - text: "Join Us"
+      href: joinus.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
